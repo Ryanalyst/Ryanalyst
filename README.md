@@ -1,7 +1,5 @@
-Hello there dear reader, my name is Ryan Waldrop, and I am an aspiring Data analyst! I currently reside in MS and am self-employed.
-I'm a Courtesy Officer for my apartment complex and a Remotask tasker. For my first position, I'm in my car for the duration of my shift, and I monitor my apartment complex for anything suspicious. I notify authorities if needed and also help out residents if they need assistance with anything. As for my other position, I train various AI models by reviewing their answers to prompts and explain ways they can improve/compare them with other models when there is more than one involved with a prompt.
-
-- My interests are sort of all over the place as of late, but to keep it short, I enjoy gaming, tennis, as well as learning new and exciting topics ^_^ 
+Hello there dear reader, my name is Ryan Waldrop, and I am an aspiring Data analyst! I currently reside in Mississippi and am self-employed at the moment. My interests are 
+sort of all over the place as of late, but to keep it short, I enjoy gaming, tennis, as well as learning new and exciting topics, hence my obsession with data analytics especially haha. There's just so much to learn and I'm eager to do just that.
 
 - I’m currently in the beginning stages of Data analytics. I have been self-studying SQL first as I feel it is one of the most important tools to have as a data analyst.
 - As of me writing this, I have an intermediate level understanding of SQL I feel, perhaps slightly higher. I still have a ways to go before with it, but I'm confident in my
